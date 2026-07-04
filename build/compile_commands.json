@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/mnt/d/scheduler/build",
+  "command": "/usr/bin/c++  -I/mnt/d/scheduler/include -O2 -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/scheduler_lib.dir/src/scheduler.cpp.o -c /mnt/d/scheduler/src/scheduler.cpp",
+  "file": "/mnt/d/scheduler/src/scheduler.cpp",
+  "output": "CMakeFiles/scheduler_lib.dir/src/scheduler.cpp.o"
+},
+{
+  "directory": "/mnt/d/scheduler/build",
+  "command": "/usr/bin/c++  -I/mnt/d/scheduler/include -O2 -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/scheduler_lib.dir/src/schedulers.cpp.o -c /mnt/d/scheduler/src/schedulers.cpp",
+  "file": "/mnt/d/scheduler/src/schedulers.cpp",
+  "output": "CMakeFiles/scheduler_lib.dir/src/schedulers.cpp.o"
+},
+{
+  "directory": "/mnt/d/scheduler/build",
+  "command": "/usr/bin/c++  -I/mnt/d/scheduler/include -O2 -std=gnu++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/nr5g_scheduler.dir/src/main.cpp.o -c /mnt/d/scheduler/src/main.cpp",
+  "file": "/mnt/d/scheduler/src/main.cpp",
+  "output": "CMakeFiles/nr5g_scheduler.dir/src/main.cpp.o"
+}
+]

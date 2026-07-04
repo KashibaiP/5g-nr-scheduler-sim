@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/scheduler/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

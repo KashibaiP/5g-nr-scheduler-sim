@@ -1,0 +1,1 @@
+/usr/bin/c++ -O2 -Wl,--dependency-file=CMakeFiles/nr5g_scheduler.dir/link.d CMakeFiles/nr5g_scheduler.dir/src/main.cpp.o -o nr5g_scheduler  libscheduler_lib.a
