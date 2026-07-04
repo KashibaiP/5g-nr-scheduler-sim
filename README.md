@@ -103,6 +103,6 @@ PF delivers ~24% higher cell throughput than Round Robin while maintaining per-U
 
 ## Author
 
-Senior Software Engineer with 7 years in 5G/telecom. Background in embedded firmware (C/C++), protocol stack integration, and baseband platform development.
+Senior Software Engineer with 6 years in 5G/telecom. Background in embedded firmware (C/C++), protocol stack integration, and baseband platform development.
 
 LinkedIn: [your-linkedin-url]
